@@ -1,0 +1,7 @@
+interface:
+  display_name: "Image Text Replace"
+  short_description: "Remove, translate, and QA text in images"
+  default_prompt: "Use $image-text-replace to remove text from this image and replace it in another language."
+
+policy:
+  allow_implicit_invocation: true
